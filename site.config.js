@@ -6,10 +6,9 @@ const CONFIG = {
     role: "Design",
     bio: "흥도 많고 흠도 많습니다.",
     email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
+    youtube: "morethanmin",
     github: "morethanmin",
     instagram: "https://www.instagram.com/kwonkangin/"
-    youtube : "https://www.instagram.com/kwonkangin/",
   },
   projects: [
     {
