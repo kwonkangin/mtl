@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "kainspiration",
+    name: "kwonkangin",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Design",
     bio: "흥도 많고 흠도 많습니다.",
@@ -19,7 +19,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "kainspiration",
     description: "welcome to morethan-log!",
   },
 
