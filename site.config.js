@@ -13,7 +13,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `112morethan-log`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
