@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `에픽션 efiction`,
+      name: `efiction`,
       href: "https://www.kainspiration.com/efiction",
     },
   ],
