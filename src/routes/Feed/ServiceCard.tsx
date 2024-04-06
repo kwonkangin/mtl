@@ -11,7 +11,8 @@ const ServiceCard: React.FC = () => {
       <StyledTitle>
         <Emoji></Emoji> Service
       </StyledTitle>
-      <StyledWrapper>
+      {/* 프로젝트 정보를 반복하는 부분을 숨김 */}
+      {/* <StyledWrapper>
         {CONFIG.projects.map((project, idx) => (
           <a
             key={idx}
@@ -23,7 +24,7 @@ const ServiceCard: React.FC = () => {
             <div className="name">{project.name}</div>
           </a>
         ))}
-      </StyledWrapper>
+      </StyledWrapper> */}
     </>
   )
 }
