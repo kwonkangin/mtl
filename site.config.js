@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `efiction`,
-      href: "https://www.kainspiration.com/efiction",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
