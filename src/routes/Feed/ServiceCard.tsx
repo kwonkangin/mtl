@@ -9,7 +9,7 @@ const ServiceCard: React.FC = () => {
   return (
     <>
       <StyledTitle>
-        <Emoji></Emoji> Service
+        <Emoji></Emoji> 
       </StyledTitle>
       {/* 프로젝트 정보를 반복하는 부분을 숨김 */}
       {/* <StyledWrapper>
